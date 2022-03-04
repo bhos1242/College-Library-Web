@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(bg2.jpg);
+    background-position: center;
+    background-size:cover;
+    color:white;
+}
+.container h1{
+    color:white;
+}
+#libraryForm .col {
+    color:white;
+}
+.form-group .row{
+    color:white;
+}
+#table .table{
+    color:white;
+}
